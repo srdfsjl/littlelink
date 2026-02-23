@@ -231,6 +231,7 @@ a:hover {
    /* Modifier for no avatar rounding */
    .avatar--none {
 	border-radius: 0%;
+	object-fit: contain;
   }
 
   /* Modifier for rounded avatar */
